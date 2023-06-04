@@ -25,14 +25,14 @@
 	- [ ] searching and breadth analyses
 
 ## Programming I
-- [ ] paradigm of programming
+- paradigm of programming
 	- [ ] imperative
 		- [ ] procedural
 		- [ ] object oriented
 	- [ ] declarative
 		- [ ] functional
 		- [ ] query languages
-- [ ] language specific features
+- language specific features
 	- [ ] use cases
 		- [ ] system level
 		- [ ] application level
@@ -44,64 +44,64 @@
 		- [ ] loosely typed
 	- [ ] blocking and non-blocking
 	- [ ] multithreaded and event based
-- [ ] skeleton of a program
+- skeleton of a program
 	- [ ] the entry point for a program
 	- [ ] flow and execution of the program
 	- [ ] dependencies over other programs
-- [ ] designing the work flow
+- designing the work flow
 	- [ ] flow diagram
 	- [ ] visualizing the flow diagram
-- [ ] pseudo code and dry run
+- pseudo code and dry run
 	- [ ] writing code using the flow
 	- [ ] pseudo code and understandability
-- [ ] implementation of pseudo code
+- implementation of pseudo code
 	- [ ] language syntax
 	- [ ] dry run and test
-- [ ] order of growth
+- order of growth
 	- [ ] notations and calculation of order of growth
 	- [ ] time complexity and space complexity
 	- [ ] constraints and identifying the timecomplexity
-- [ ] code quality and understandability
+- code quality and understandability
 	- [ ] variable naming convention
 	- [ ] optimizing and refactoring
 
 ## Java program structure and compiling
-- [ ] skeleton of java
+- skeleton of java
 	- [ ] classes
 	- [ ] how classes compile
-- [ ] objects
+- objects
 	- [ ] creating objects
 	- [ ] accessing properties
-- [ ] main
+- main
 	- [ ] the main method
 	- [ ] using imports
-- [ ] static
+- static
 	- [ ] static in terms of mem
 	- [ ] static in terms of class
-- [ ] javap
+- javap
 	- [ ] .class file to .java
 	- [ ] peeking in 
-- [ ] javac
+- javac
 	- [ ] compiling single file
 	- [ ] compiling entire package
 	- [ ] Build tools
 		- [ ] ant
 		- [ ] maven
 		- [ ] gradle
-- [ ] java
+- java
 	- [ ] running file without compile
 	- [ ] java as an repl
-- [ ] ByteCode signature
+- ByteCode signature
 	- [ ] signature of any class
 	- [ ] next level of bytecode
-- [ ] using stack trace
+- using stack trace
 
 ## java architecture
-- [ ] how java works
+- how java works
 	- [ ] jdk
 	- [ ] jre
 	- [ ] jvm
-- [ ] inside look of jvm
+- inside look of jvm
 	- [ ] class loader
 		- [ ] loading
 		- [ ] linking
@@ -118,15 +118,15 @@
 		- [ ] Interpretor
 		- [ ] jit compiler
 		- [ ] garbage collection
-	- [ ] native method
+	- native method
 		- [ ] native method interface
 		- [ ] native method library
-- [ ] how the execution is done
+- how the execution is done
 
 ## Programming in java 
-- [ ] codeblock and scopes
-- [ ] real world entity and its mapping
-- [ ] data-types and literals
+- codeblock and scopes
+- real world entity and its mapping
+- data-types and literals
 	- [ ] lvalue and rvalue
 	- [ ] strictly typing
 	- [ ] class, object and instance
@@ -136,3 +136,40 @@
 	- [ ] data and data types, size, range ...
 	- [ ] expressions
 	- [ ] statements
+- Wrapper Classes
+	- [ ] why use wrapper classes
+	- [ ] data types and other functions
+- Operators
+	- [ ] airthematic
+	- [ ] assignment
+	- [ ] logical
+	- [ ] bitwise
+	- [ ] comparision
+- Printing and Formating in java
+	- [ ] print, println, printf
+	- [ ] regular expression
+	- [ ] strings and immutability
+	- [ ] toString() method
+- Methods
+	- [ ] passing object in methods
+	- [ ] pass by value vs pass by refrence
+	- [ ] pass by value in case of array
+	- [ ] variable arguments
+	- [ ] command line arguments
+- Console Input
+	- [ ] input buffers
+	- [ ] Scanner class
+	- [ ] working of next... methods
+	- [ ] taking input and storing it in variables
+- Control Flow
+	- [ ] if...else 
+	- [ ] if...else if...else
+	- [ ] if...if
+	- [ ] for loop
+	- [ ] while loop
+	- [ ] when to use for and when to use while
+	- [ ] switch
+- Keywords
+	- [ ] final
+	- [ ] public, private, protected
+	- [ ] new, this
