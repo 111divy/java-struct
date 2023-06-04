@@ -1,64 +1,138 @@
 # Index
 
 ## Computer science basics
-- how computers work
-	- engilsh to binary
-- programming instruction to computer
-	- cpu and conversion of program to instructions
-- files, folders and memory allocation
-	- memory blocks
-	- how program is stored
-	- stack and heap
-- system level programming and application level programming
-	- kernel and how it works
-	- system calls and user spaces
-- executives and source code
-	- the source code for application
-	- the runnable file for application
+- [ ] how computers work
+	- [ ] booting up and frimware
+	- [ ] kernel and user space
+	- [ ] virtual memory, processes and threads
+- [ ] programming instruction to computer
+	- [ ] cpu and conversion of program to instructions
+	- [ ] system calls
+	- [ ] switching context or spaces
+- [ ] memory allocation of java program
+	- [ ] memory blocks
+	- [ ] how program is stored
+	- [ ] stack and heap
+- [ ] executives and source code
+	- [ ] the source code for application
+	- [ ] the runnable file for application
 
 ## version-control and code base
-- source code and tracking the code
-	- project and checkpoints
-- git, github
-	- git cli and using specific git commands
-- navigation and how the code base works
-	- understanding the code
-	- searching and breadth analyses
+- [ ] git, github
+	- [ ] git cli and using specific git commands
+- [ ] navigation and how the code base works
+	- [ ] understanding the code
+	- [ ] searching and breadth analyses
 
 ## Programming I
-- paradigm of programming
-	- imperative
-		- procedural
-		- object oriented
-	- declarative
-		- functional
-		- query languages
-- language specific features
-	- use cases
-		- system level
-		- application level
-		- scripteing level
-		- data oriented
-	- static and dynamic
-		- statically typed
-		- dynamically typed
-		- loosely typed
-	- blocking and non-blocking
-	- multithreaded and event based
-- skeleton of a program
-	- the entry point for a program
-	- flow and execution of the program
-	- dependencies over other programs
-- designing the work flow
-	- flow diagram
-	- visualizing the flow diagram
-- pseudo code and dry run
-	- writing code using the flow
-	- pseudo code and understandability
-- implementation of pseudo code
-	- language syntax
-	- dry run and test
-- code quality and understandability
-	- variable naming convention
-	- optimizing and refactoring
-	- stress testing by self
+- [ ] paradigm of programming
+	- [ ] imperative
+		- [ ] procedural
+		- [ ] object oriented
+	- [ ] declarative
+		- [ ] functional
+		- [ ] query languages
+- [ ] language specific features
+	- [ ] use cases
+		- [ ] system level
+		- [ ] application level
+		- [ ] scripting level
+		- [ ] data oriented
+	- [ ] static and dynamic
+		- [ ] statically typed
+		- [ ] dynamically typed
+		- [ ] loosely typed
+	- [ ] blocking and non-blocking
+	- [ ] multithreaded and event based
+- [ ] skeleton of a program
+	- [ ] the entry point for a program
+	- [ ] flow and execution of the program
+	- [ ] dependencies over other programs
+- [ ] designing the work flow
+	- [ ] flow diagram
+	- [ ] visualizing the flow diagram
+- [ ] pseudo code and dry run
+	- [ ] writing code using the flow
+	- [ ] pseudo code and understandability
+- [ ] implementation of pseudo code
+	- [ ] language syntax
+	- [ ] dry run and test
+- [ ] order of growth
+	- [ ] notations and calculation of order of growth
+	- [ ] time complexity and space complexity
+	- [ ] constraints and identifying the timecomplexity
+- [ ] code quality and understandability
+	- [ ] variable naming convention
+	- [ ] optimizing and refactoring
+
+## Java program structure and compiling
+- [ ] skeleton of java
+	- [ ] classes
+	- [ ] how classes compile
+- [ ] objects
+	- [ ] creating objects
+	- [ ] accessing properties
+- [ ] main
+	- [ ] the main method
+	- [ ] using imports
+- [ ] static
+	- [ ] static in terms of mem
+	- [ ] static in terms of class
+- [ ] javap
+	- [ ] .class file to .java
+	- [ ] peeking in 
+- [ ] javac
+	- [ ] compiling single file
+	- [ ] compiling entire package
+	- [ ] Build tools
+		- [ ] ant
+		- [ ] maven
+		- [ ] gradle
+- [ ] java
+	- [ ] running file without compile
+	- [ ] java as an repl
+- [ ] ByteCode signature
+	- [ ] signature of any class
+	- [ ] next level of bytecode
+- [ ] using stack trace
+
+## java architecture
+- [ ] how java works
+	- [ ] jdk
+	- [ ] jre
+	- [ ] jvm
+- [ ] inside look of jvm
+	- [ ] class loader
+		- [ ] loading
+		- [ ] linking
+		- [ ] initialisation
+	- [ ] jvm memory
+		- [ ] method area
+		- [ ] heap area
+		- [ ] stack
+			- [ ] threads
+		- [ ] pc registors
+			- [ ] thread pc
+		- [ ] native method stack
+	- [ ] execution engine
+		- [ ] Interpretor
+		- [ ] jit compiler
+		- [ ] garbage collection
+	- [ ] native method
+		- [ ] native method interface
+		- [ ] native method library
+- [ ] how the execution is done
+
+## Programming in java 
+- [ ] codeblock and scopes
+- [ ] real world entity and its mapping
+- [ ] data-types and literals
+	- [ ] lvalue and rvalue
+	- [ ] strictly typing
+	- [ ] class, object and instance
+	- [ ] variables
+	- [ ] literals
+	- [ ] naming conventions
+	- [ ] data and data types, size, range ...
+	- [ ] expressions
+	- [ ] statements
