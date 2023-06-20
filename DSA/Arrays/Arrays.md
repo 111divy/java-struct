@@ -1,0 +1,84 @@
+# Array Operations and Limitations
+- [ ] Access of elements (one by one, atmost nth terms)
+- [ ] Insertion of elements
+- [ ] Deletion of elements
+- [ ] Getting an elements
+- [ ] Playing with index and element on the index 
+- [ ] Applying problem solving approach within the questions 
+- [ ] How to write algortihms that actually works
+- [ ] When to use other data structure helping in questions
+- [ ] Using inbuilt function to make stuff easier
+
+# Arrays Questions Applying basic concept
+- [ ] Find Maximum
+- [ ] Find Second Maximum
+- [ ] Find Minimum
+- [ ] Insertion in Array
+- [ ] Deletion in Array
+- [ ] Reverse Array
+- [ ] Check If Array is Sorted
+- [ ] Left Rotate Array by One place
+- [ ] Move Zeroes to End 
+- [ ] Move Zeroes to Begining
+- [ ] Left Rotate the Array by D places
+- [ ] Leaders in an Array
+- [ ] Find Union and Intersection
+- [ ] Maximum difference problem
+- [ ] Frequencies in a sorted Array
+- [ ] Stock buy and sell only one
+- [ ] Stock buy and sell more than one
+- [ ] Stock buy and sell get every pair
+- [ ] Trapping Rain water
+- [ ] Maximum Consecutive 1's
+- [ ] Maximum subarray Sum
+- [ ] Longest even odd subarray
+- [ ] Maximum Circular Sum
+- [ ] Majority Element
+- [ ] Minimum Consecutive Flips
+- [ ] Find kth Max and kth Min element
+- [ ] Sort array of 0's 1's 2's
+- [ ] Move all negative elements to one side
+- [ ] Find Largest Sum contiguos subarray
+- [ ] Minimise the maximum difference between heights
+- [ ] Merge 2 sorted array
+- [ ] Merge Intervals
+- [ ] Next Permutation
+- [ ] Count Inversion
+- [ ] 2-Sum, 3-Sum, 4-Sum
+- [ ] Find common elements in 3 sorted array
+- [ ] Re-arrange the array in alternative +ive and -ive items
+- [ ] Find if there is any subarray with sum 0
+- [ ] Find factorial of a large number
+- [ ] Find maximum product salary
+- [ ] Find longest Consecutive subsequence
+- [ ] Find if the array is subset of another array
+- [ ] Find the triplet that sums to a given value
+- [ ] Chocolate distribution problem
+- [ ] Median of 2 sorted Array of same and differnt size
+- [ ] Smallest subarray with sum greater than a given value
+- [ ] Minimum number of operations require to make an array palindrome
+- [ ] Reverse Pairs
+- [ ] Count number of inversions
+- [ ] Merge Overlapping subintervals
+
+# ALGORITHMS IN ARRAY
+- [ ] Linear Search
+- [ ] Binary Search
+- [ ] Bubble Sort
+- [ ] Selection Sort
+- [ ] Insertion Sort
+- [ ] Merge Sort
+- [ ] Recursive Bubble Sort
+- [ ] Recursive Insertion Sort
+- [ ] Quick Sort
+- [ ] Prefix Sum / Suffix Sum
+- [ ] Two Pointer
+- [ ] Sliding Window
+- [ ] Monotonic Stack
+- [ ] Hashing Classical
+- [ ] Hashing Data Structure
+- [ ] One Dimensional Dynamic Programming
+- [ ] Divide and Conquer
+- [ ] Heap Sort
+- [ ] Sets Operations
+- [ ] Kadane's Algorithm
